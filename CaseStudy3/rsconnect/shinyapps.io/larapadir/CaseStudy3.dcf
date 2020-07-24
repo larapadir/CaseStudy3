@@ -1,0 +1,13 @@
+name: CaseStudy3
+title: CaseStudy3
+username:
+account: larapadir
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 2607466
+bundleId: 3429171
+url: https://larapadir.shinyapps.io/CaseStudy3/
+when: 1595560098.37234
+asMultiple: FALSE
+asStatic: FALSE
+ignoredFiles: www/ffcartoon.jpeg|www/forestfire.jpg|www/forestfire.png
